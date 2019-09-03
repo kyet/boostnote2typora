@@ -19,7 +19,7 @@ Migration boostnote to typora
 #### snippet
 
 - a snippet that have multiple code converted to a md file
-- each code will be converted to code block (``` .. ```)
+- each code will be converted to code block (\`\`\` .. \`\`\`)
 
 #### UML
 
